@@ -1,8 +1,9 @@
 ### Hola 👋, Hi, I'm Martin 😎💻
 #### ¡Welcome to my profile! 👋
 ##### Projects-Proyectos:
-![MisProyectos](https://raw.githubusercontent.com/MartinCoimbra/MartinCoimbra/main/proyectos.gif)
-
+<img src="https://raw.githubusercontent.com/MartinCoimbra/MartinCoimbra/main/proyectos.gif" 
+title="Mis proyectos" alt="Mis proyectos" 
+width="100%" />
 
 Habilidades:  REACT ⚛️ / JS / BOOTSTRAP / CSS
 
