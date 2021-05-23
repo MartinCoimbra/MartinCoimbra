@@ -1,7 +1,6 @@
-   <h3 align="center">¡Hey 👋! Soy Martin 😊💻</h3>
-<p align="center" width="300">
-   <img align="center" width="200" style="border-radius: 25px" src="https://github.com/MartinCoimbra/MartinCoimbra/blob/main/martinCoimbraPerfil.png?raw=true" />
-
+<h3 align="center">¡Hey 👋! Soy Martin 😊💻</h3>
+<p align="center" width="100%">
+   <img align="center" width="20%" src="https://github.com/MartinCoimbra/MartinCoimbra/blob/main/martinCoimbraPerfil.png?raw=true" />
    <p align="center">✨¡Welcome to my profile!✨</p>
 </p>
 
