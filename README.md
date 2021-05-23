@@ -9,7 +9,7 @@
 title="Mis proyectos" alt="Mis proyectos" 
 width="100%" />
 
-Habilidades:  REACT ⚛️ / JS / BOOTSTRAP / CSS
+Habilidades:  REACT ⚛️ / JS / TypeScript / BOOTSTRAP / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCoimbra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
