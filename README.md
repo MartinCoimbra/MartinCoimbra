@@ -1,6 +1,11 @@
-### Hola 👋, Hi, I'm Martin 😎💻
-#### ¡Welcome to my profile! 👋
-##### Projects-Proyectos:
+   <h3 align="center">¡Hey 👋! Soy Martin 😊💻</h3>
+<p align="center" width="300">
+   <img align="center" width="200" style="border-radius: 25px" src="https://github.com/MartinCoimbra/MartinCoimbra/blob/main/martinCoimbraPerfil.png?raw=true" />
+
+   <p align="center">✨¡Welcome to my profile!✨</p>
+</p>
+
+##### My projects- Algunos proyectos:
 <img src="https://raw.githubusercontent.com/MartinCoimbra/MartinCoimbra/main/proyectos.gif" 
 title="Mis proyectos" alt="Mis proyectos" 
 width="100%" />
