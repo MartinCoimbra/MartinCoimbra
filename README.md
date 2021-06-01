@@ -3,7 +3,7 @@
    <img align="center" width="20%" src="https://github.com/MartinCoimbra/MartinCoimbra/blob/main/martinCoimbraPerfil.png?raw=true" />
    <p align="center">✨¡Welcome to my profile!✨</p>
 </p>
-
+<p>Me gusta el café ☕ pero prefiero el mate 🧉 </p>
 ##### My projects- Algunos proyectos:
 <img src="https://raw.githubusercontent.com/MartinCoimbra/MartinCoimbra/main/proyectos.gif" 
 title="Mis proyectos" alt="Mis proyectos" 
