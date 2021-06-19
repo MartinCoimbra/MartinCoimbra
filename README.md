@@ -5,7 +5,7 @@
    <p align="center">✨¡FULL STACK DEVELOPER!✨</p>
 </p>
 
-##### My projects- Algunos proyectos:
+#####  Algunos proyectos:
 <img src="https://raw.githubusercontent.com/MartinCoimbra/MartinCoimbra/main/proyectos.gif" 
 title="Mis proyectos" alt="Mis proyectos" 
 width="100%" />
