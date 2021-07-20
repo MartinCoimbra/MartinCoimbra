@@ -2,7 +2,7 @@
 <p align="center" width="100%">
    <img align="center" width="100%" src="https://github.com/MartinCoimbra/MartinCoimbra/blob/main/Fullstack.gif?raw=true" />
    <p align="center">✨¡Welcome to my profile!✨</p>
-   <p align="center">✨¡FULL STACK DEVELOPER!✨</p>
+   <p align="center">✨Desarrollador full stack, con un gran interés en el mundo del software. Con capacidad para aprender y aplicar mis conocimientos al ámbito profesional. ✨</p>
 </p>
 
 #####  Algunos proyectos:
