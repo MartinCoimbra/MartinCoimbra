@@ -20,12 +20,15 @@ width="100%" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
+<p> 
+   Front-end: HTML - CSS3 - BOOTSTRAP -  SASS - Tailwind  - React - Redux. <br />
+   Back-end: JS - TypeScript - Node.js - TypeORM PostgreSQL - MySQL - Express.js <br />
+   Otros: GNU/Linux - Git - Postman - API REST - Java - VB.NET 
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCoimbra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/martincoimbra/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
 
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MartinCoimbra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MartinCoimbra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MartinCoimbra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/martin_coimbra/)  -->
+ 
