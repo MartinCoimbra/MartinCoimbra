@@ -25,9 +25,12 @@ width="100%" />
    Back-end: JS - TypeScript - Node.js - TypeORM PostgreSQL - MySQL - Express.js <br />
    Otros: GNU/Linux - Git - Postman - API REST - Java - VB.NET 
 </p>
+ 
+|Github Statistics|Streaks|Languages|
+|-|-|-|
+|[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=MartinCoimbra&show_icons=true&theme=dark&hide_title=true)](https://github.com/MartinCoimbra)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=MartinCoimbra&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCoimbra&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/MartinCoimbra)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCoimbra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Profile Views](https://komarev.com/ghpvc/?username=MartinCoimbra&style=plastic&color=yellow)
 
 - 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/martincoimbra/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
 
