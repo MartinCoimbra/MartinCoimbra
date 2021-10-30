@@ -22,7 +22,7 @@ width="100%" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <p> 
    Front-end: HTML - CSS3 - BOOTSTRAP -  SASS - Tailwind  - React - Redux. <br />
-   Back-end: JS - TypeScript - Node.js - TypeORM PostgreSQL - MySQL - Express.js <br />
+   Back-end: JS - TypeScript - Node.js - TypeORM - PostgreSQL - MySQL - Express.js <br />
    Otros: GNU/Linux - Git - Postman - API REST - Java - VB.NET 
 </p>
  
