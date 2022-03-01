@@ -13,7 +13,7 @@
 |-|-|-|-|-|-|-|-|-|
 | Front-end: | HTML| CSS3 | BOOTSTRAP | SASS | Tailwind | React | Redux | Next.js |
 | Back-end: | JS | TypeScript | Node.js | TypeORM | PostgreSQL | MySQL | Express.js |
-| Otros: | GNU/Linux | Git | Postman | API REST | Java | VB.NET | | |
+| Others: | GNU/Linux | Git | Postman | API REST | Java | VB.NET | | |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MartinCoimbra&style=plastic&color=yellow)
 
