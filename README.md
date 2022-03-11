@@ -14,8 +14,6 @@
 | Back-end: | JavaScript | TypeScript | Node.js | TypeORM | PostgreSQL | MySQL | Express.js | Nest.js |
 | Others: | GNU/Linux | Git | Postman | API REST | Java | VB.NET | | |
 
-![Profile Views](https://komarev.com/ghpvc/?username=MartinCoimbra&style=plastic&color=yellow)
-
-- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/martincoimbra/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
+- 📫 Contact: [Linkedin](https://www.linkedin.com/in/martincoimbra/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
 
  
