@@ -10,9 +10,9 @@
 
 ||||||||||
 |-|-|-|-|-|-|-|-|-|
-| Front-end: | Next.js | CSS3 | BOOTSTRAP | SASS | Tailwind | React.js | React Native | Redux | Next.js |
-| Back-end: | JavaScript | TypeScript | Node.js | TypeORM | PostgreSQL | MySQL | Express.js | Nest.js |
-| Others: | GNU/Linux | Git | Postman | API REST | Java | VB.NET | | |
+| Front-end: | Next.js | React.js | React Native | Redux | CSS | BOOTSTRAP | SASS | Tailwind |
+| Back-end: | JavaScript | Python | TypeScript | Node.js | TypeORM | Express.js | Nest.js | Flask |
+| Others: | GNU/Linux | Git | Postman | API REST | Java | VB.NET | PostgreSQL | MySQL |
 
 - 📫 Contact: [Linkedin](https://www.linkedin.com/in/martincoimbra/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
 
