@@ -10,7 +10,7 @@
 
 ||||||||||
 |-|-|-|-|-|-|-|-|-|
-| Front-end: | Next.js | React.js | React Native | Redux | CSS | BOOTSTRAP | SASS | Tailwind |
+| Front-end: | Next.js | React.js | Angular | React Native | Redux | CSS | BOOTSTRAP | Tailwind |
 | Back-end: | JavaScript | Python | TypeScript | Node.js | TypeORM | Express.js | Nest.js | Flask |
 | Others: | GNU/Linux | Git | Postman | API REST | Java | VB.NET | PostgreSQL | MySQL |
 
